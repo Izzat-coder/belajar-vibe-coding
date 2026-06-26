@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782452715276,
+      "tag": "0000_acoustic_mother_askani",
+      "breakpoints": true
+    }
+  ]
+}
